@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neha\Downloads\android\coursera-android-labs-master\Lab3a_MyBrowser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5786ffbc1cc870e36f3c59712d900548028fa65f">
+        <dex dex="C:\Users\Neha\Downloads\android\coursera-android-labs-master\Lab3a_MyBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_846d91b59270e9a13971ee49f43dcb99c43f7582\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neha\Downloads\android\coursera-android-labs-master\Lab3a_MyBrowser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc4085ac20e13385bcbd6998826efa5964822471">
+        <dex dex="C:\Users\Neha\Downloads\android\coursera-android-labs-master\Lab3a_MyBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2f2e3bf406799c2c33cac0c4bb125b69d2aa1dec\classes.dex" />
+    </item>
+
+</items>

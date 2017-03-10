@@ -1,0 +1,7 @@
+#Wed Feb 08 18:03:37 PST 2017
+base.0=C\:\\Users\\Neha\\Downloads\\android\\coursera-android-labs-master\\Lab3a_MyBrowser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_846d91b59270e9a13971ee49f43dcb99c43f7582
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Neha\\Downloads\\android\\coursera-android-labs-master\\Lab3a_MyBrowser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f2e3bf406799c2c33cac0c4bb125b69d2aa1dec\\classes.dex
+base.1=C\:\\Users\\Neha\\Downloads\\android\\coursera-android-labs-master\\Lab3a_MyBrowser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f2e3bf406799c2c33cac0c4bb125b69d2aa1dec
+file.0=C\:\\Users\\Neha\\Downloads\\android\\coursera-android-labs-master\\Lab3a_MyBrowser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_846d91b59270e9a13971ee49f43dcb99c43f7582\\classes.dex
